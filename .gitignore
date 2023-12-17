@@ -1,0 +1,8 @@
+/target/
+*.sqlite
+*-wal
+*-shm
+.idea
+/output/
+sql/
+*.db
